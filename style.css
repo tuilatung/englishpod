@@ -7,7 +7,8 @@
 #jp_container_1{
     margin-top: 10px;
     position: absolute;
-    left: 1%;
+    left: 50%;
+    transform: translateX(-50%);
     justify-content: center;
     background-color: rgb(128, 128, 128);;
     color: rgb(255, 255, 255);
